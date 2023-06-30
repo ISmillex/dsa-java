@@ -1,5 +1,3 @@
-package stack;
-
 public class InFixToPreFix {
     public int precedence(char chr) {
         switch (chr) {

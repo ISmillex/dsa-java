@@ -1,4 +1,4 @@
-package queue;
+
 import java.util.NoSuchElementException;
 
 public class QueueLinkedList<T> {
@@ -76,7 +76,7 @@ public class QueueLinkedList<T> {
     }
 
     public static void main(String[] args) {
-        QueueLinkedList<Integer> queue = new QueueLinkedList<>();
+        QueueLinkedList<Integer> queue = new QueueLinkedList<Integer>();
         queue.enqueue(5);
         queue.enqueue(4);
         queue.enqueue(3);

@@ -1,5 +1,3 @@
-package stack;
-
 import java.util.EmptyStackException;
 import java.util.NoSuchElementException;
 
@@ -59,7 +57,7 @@ public class StackArray<T> {
 
 
     public static void main(String[] args) {
-        StackArray<Integer> stack = new StackArray<>(10);
+        StackArray<Integer> stack = new StackArray<Integer>(10);
 
         stack.push(1);
         stack.push(2);

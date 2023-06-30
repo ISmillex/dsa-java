@@ -1,4 +1,4 @@
-package queue;
+
 
 
 public class QueueArray<T> {
@@ -51,7 +51,7 @@ public class QueueArray<T> {
 
 
     public static void main(String[] args) {
-        QueueArray<Integer> queue = new QueueArray<>(10);
+        QueueArray<Integer> queue = new QueueArray<Integer>(10);
         queue.enqueue(1);
         queue.enqueue(2);
         queue.enqueue(3);

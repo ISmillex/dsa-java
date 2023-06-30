@@ -1,5 +1,3 @@
-package stack;
-
 import java.util.NoSuchElementException;
 
 public class StackLinkedList<T> {
