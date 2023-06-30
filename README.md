@@ -26,29 +26,12 @@ This repository contains the implementation of various data structures and algor
 ## Algorithms
 
 1. Searching
-   - Linear Search
-   - Binary Search
 2. Sorting
-   - Bubble Sort
-   - Selection Sort
-   - Insertion Sort
-   - Logo Sort
-   - Merge Sort
-   - Quick Sort
-   - Heap Sort
-   - Tim Sort
-   - Radix Sort
 3. Recursion
 4. Dynamic Programming
 5. Graph Traversal
-   - Breadth-First Search (BFS)
-   - Depth-First Search (DFS)
 6. Shortest Path
-   - Dijkstra's Algorithm
-   - Bellman-Ford Algorithm
 7. Minimum Spanning Tree
-   - Kruskal's Algorithm
-   - Prim's Algorithm
 
 ## Getting Started
 
