@@ -1,3 +1,4 @@
+
 public class StringPermutation {
 
     public void swap(char[] arr, int i, int j) {
