@@ -14,13 +14,14 @@ This repository contains the implementation of various data structures and algor
 
 1. Array
 2. Linked List
-3. Stack
-4. Queue
-5. Binary Tree
-6. Binary Search Tree
-7. Heap
-8. Hash Table
-9. Graph
+3. Hash Set
+4. Hash Map
+5. Stack
+6. Queue
+7. Tree
+8. Binary Search Tree
+9. Heap
+10. Graph
 
 ## Algorithms
 
@@ -31,9 +32,12 @@ This repository contains the implementation of various data structures and algor
    - Bubble Sort
    - Selection Sort
    - Insertion Sort
+   - Logo Sort
    - Merge Sort
    - Quick Sort
    - Heap Sort
+   - Tim Sort
+   - Radix Sort
 3. Recursion
 4. Dynamic Programming
 5. Graph Traversal
